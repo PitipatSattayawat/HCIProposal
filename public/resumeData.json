@@ -107,6 +107,17 @@
         "category":"Proposal",
         "image":"0876543.jpg",
         "url":"https://drive.google.com/file/d/1xLwUYuTP82ttxnUB-VfIrdzYG8mU559O/view?usp=sharing"
+      }, {
+        "title":"Scenario and storyboard",
+        "category":"Scenario+Storybord",
+        "image":"0765432.jpg",
+        "url":"https://docs.google.com/document/d/1moPQgWaEZyUqk7r4gnOlYKbFbv-2tTlWNiTsw1xXHUc/edit?usp=sharing"
+      },
+      {
+        "title":"Photo of your paper prototype",
+        "category":"Physical one",
+        "image":"0654321.jpg",
+        "url":"https://drive.google.com/file/d/1wJXOz4u4E_bMp-tkAj-mkW7VAgdhyr4v/view?usp=sharing"
       }
       
     ]
